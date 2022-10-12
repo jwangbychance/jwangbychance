@@ -1,4 +1,5 @@
-### Hi there 👋
+Australian university student studying a bachelor in Information Technology and Business. 
+Majoring in both Data Analytics and Accounting.
 
 <!--
 **jwangbychance/jwangbychance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
