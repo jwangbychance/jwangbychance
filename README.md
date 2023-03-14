@@ -2,7 +2,12 @@ Australian university student studying a Bachelor in Information Technology and 
 
 Majoring in both Data Analytics and Accounting
 
-Skills:
+Data Analytics Skills:
 - SQL
 - Python
 - Tableau
+
+Front End Skills:
+- HTML
+- CSS
+- JavaScript
