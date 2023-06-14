@@ -2,6 +2,9 @@ Australian university student studying a Bachelor in Information Technology and 
 
 Majoring in both Data Analytics and Accounting
 
+Libraries:
+- React
+
 Data Analytics Skills:
 - SQL
 - Python
