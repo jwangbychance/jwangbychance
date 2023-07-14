@@ -1,4 +1,4 @@
-Australian university student studying a Bachelor in Information Technology and Business
+UTS student studying a Bachelor in Information Technology and Business
 
 Data Analytics & Accounting
 
