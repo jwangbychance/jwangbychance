@@ -1,4 +1,4 @@
-UTS student studying Bachelors in IT & Business
+Bachelors in IT & Business UTS
 
 Majors: Data Analytics & Accounting <br />
 <br />
